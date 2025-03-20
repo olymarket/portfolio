@@ -4,13 +4,12 @@ Welcome to my personal portfolio. This portfolio is designed to showcase my skil
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Portfolio Demo](./img/icons/demo.png "Desktop Demo")
 
 ## Installing
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/olymarket/portfolio.git
 ```
 
 ## License
