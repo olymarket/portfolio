@@ -4,7 +4,7 @@ Welcome to my personal portfolio. This portfolio is designed to showcase my skil
 
 ## Demo
 
-![Portfolio Demo](./img/icons/demo.png "Desktop Demo")
+![Portfolio Demo](./img/icons/demo.webp "Desktop Demo")
 
 ## Installing
 
